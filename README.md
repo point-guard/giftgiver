@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+
+This application is a sample of how to write unit tests. The application allows the user
+to add / remove 2 people to a list and display
 
 ## Available Scripts
 
